@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "544847369932",
+    "project_id": "coupang-eatsb",
+    "storage_bucket": "coupang-eatsb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544847369932:android:b692dea6cd5ada8e89d469",
+        "android_client_info": {
+          "package_name": "com.example.fcm_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544847369932-lu1pev5btmlucjvq4ep77p9rjsb1vtu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAjh2AhIdgvjUB3VHCI5n-UD7doBAOFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544847369932-lu1pev5btmlucjvq4ep77p9rjsb1vtu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544847369932:android:f7567f6f4c1afc2989d469",
+        "android_client_info": {
+          "package_name": "com.softsquared.template.kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544847369932-lu1pev5btmlucjvq4ep77p9rjsb1vtu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAjh2AhIdgvjUB3VHCI5n-UD7doBAOFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544847369932-lu1pev5btmlucjvq4ep77p9rjsb1vtu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
